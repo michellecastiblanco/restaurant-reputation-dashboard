@@ -63,7 +63,18 @@ Reviews arrive in three languages. The pipeline:
 4. **Classification**: Positive / Neutral / Negative per dimension, stored in `silver_reviews`
 
 ---
+## 📸 Dashboard Screenshots
 
+### Overview
+![Overview](dashboard_overview.png)
+
+### Insights
+![Insights](dashboard_insights.png)
+
+### Reviews
+![Reviews](dashboard_reviews.png)
+
+---
 ## DAX Measures
 
 All measures live in the `_Measures` table, organized in display folders.
